@@ -1,0 +1,3 @@
+numpy==2.4.6
+PyAudioWPatch==0.2.12.9
+pyserial==3.5

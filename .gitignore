@@ -1,0 +1,25 @@
+# Local credentials, targets and generated output
+.pio/
+**/.pio/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+**/panel.local.json
+work/
+output/
+dist/
+*.log
+*.lnk
+*.wav
+*.elf
+*.map
+*.bin
+*.zip
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

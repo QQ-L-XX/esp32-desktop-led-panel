@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-25",
+  "singlePanel": "8x32, 256 RGB pixels",
+  "phraseChecksPassed": true,
+  "observedTransitions": [
+    {
+      "index": 0,
+      "seconds": 0.19,
+      "frames": 7462,
+      "deviceSeconds": 1,
+      "observedWindow": [
+        0.0,
+        0.359
+      ]
+    },
+    {
+      "index": 1,
+      "seconds": 10.33,
+      "frames": 7740,
+      "deviceSeconds": 11,
+      "observedWindow": [
+        7.391,
+        10.5
+      ]
+    },
+    {
+      "index": 2,
+      "seconds": 20.17,
+      "frames": 8013,
+      "deviceSeconds": 21,
+      "observedWindow": [
+        19.594,
+        20.343
+      ]
+    },
+    {
+      "index": 3,
+      "seconds": 31.28,
+      "frames": 8321,
+      "deviceSeconds": 32,
+      "observedWindow": [
+        28.297,
+        31.453
+      ]
+    },
+    {
+      "index": 0,
+      "seconds": 41.36,
+      "frames": 8597,
+      "deviceSeconds": 42,
+      "observedWindow": [
+        39.032,
+        41.531
+      ]
+    }
+  ],
+  "rebootPersistence": [
+    "playlist",
+    "interval",
+    "favorites",
+    "mode",
+    "brightness"
+  ],
+  "physicalColdPowerTestThisRelease": false,
+  "visualReadabilityRequiresUserObservation": true
+}
